@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        '/:year/:month/:title.html'
+
+# Setup
+title:            'Sebastian Murphy'
+tagline:          'Software Engineer'
+description:      'Software Engineer'
+url:              'http://sebasmurphy.com'
+images:           '/images/'
+
+author:
+  name:           'Sebastian Murphy'
+  email:          'sebastianmurphy@gmail.com'
+  # telephone:      '1 250 885 0632'
+  url:            'http://sebasmurphy.com'
+  github:         'http://github.com/sebasmurphy'
+  linkedin:       'http://linkedin.com/in/sebastian-murphy-882a6716'
+
+plugins: [jekyll-paginate]
+
+gems:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+paginate:         5
