@@ -9,16 +9,16 @@ permalink:        '/:year/:month/:title.html'
 title:            'Sebastian Murphy'
 tagline:          'Software Engineer'
 description:      'Software Engineer'
-url:              'http://sebasmurphy.com'
+url:              'https://sebasmurphy.com'
 images:           '/images/'
 
 author:
   name:           'Sebastian Murphy'
   email:          'sebastianmurphy@gmail.com'
   # telephone:      '1 250 885 0632'
-  url:            'http://sebasmurphy.com'
-  github:         'http://github.com/sebasmurphy'
-  linkedin:       'http://linkedin.com/in/sebastian-murphy-882a6716'
+  url:            'https://sebasmurphy.com'
+  github:         'https://github.com/sebasmurphy'
+  linkedin:       'https://linkedin.com/in/sebastian-murphy-882a6716'
 
 plugins: [jekyll-paginate]
 
